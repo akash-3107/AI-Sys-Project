@@ -1,8 +1,0 @@
-walk north
-walk north
-walk west
-walk north
-walk west
-walk north
-walk north
-walk north
