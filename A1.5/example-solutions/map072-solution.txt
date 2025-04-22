@@ -1,0 +1,14 @@
+walk south
+push west
+walk south
+walk north
+walk east
+scare east
+walk east
+walk south
+walk east
+walk south
+push south
+push east
+walk south
+walk south

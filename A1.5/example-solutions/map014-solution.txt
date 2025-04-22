@@ -1,0 +1,8 @@
+walk west
+push west
+push west
+push south
+walk west
+push north
+walk west
+walk west

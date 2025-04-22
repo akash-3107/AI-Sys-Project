@@ -1,0 +1,17 @@
+walk west
+walk north
+walk south
+walk east
+walk east
+shoot east
+walk east
+walk east
+walk south
+walk east
+walk west
+walk north
+shoot north
+walk north
+walk north
+walk north
+walk north

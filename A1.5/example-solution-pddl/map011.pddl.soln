@@ -1,0 +1,8 @@
+(push-east s c a e hp h h c p t-9-4 t-10-4 t-11-4 t-12-4)
+(walk-north s h c e t-10-4 t-10-3 b f a w)
+(push-east s c a e hp h h c p t-10-3 t-11-3 t-12-3 t-13-3)
+(push-south s c a e hp h h c p t-11-3 t-11-4 t-11-5 t-11-6)
+(push-south s c a e hp h h c p t-11-4 t-11-5 t-11-6 t-11-7)
+(walk-east s e h c t-11-5 t-12-5 b f a w)
+(walk-east s e h c t-12-5 t-13-5 b f a w)
+; cost = 7 (unit cost)
