@@ -1,0 +1,129 @@
+<Problems>
+  <Problem id="0" type="coauthors">
+    <Author>https://zbmath.org/authors/?q=ai%3Achirella.carl</Author>
+  </Problem>
+  <Problem id="1" type="coauthors">
+    <Author>https://zbmath.org/authors/?q=ai%3Apatera.jiri</Author>
+  </Problem>
+  <Problem id="2" type="coauthors">
+    <Author>https://zbmath.org/authors/?q=ai%3Asi.yinghua</Author>
+  </Problem>
+  <Problem id="3" type="coauthors">
+    <Author>https://zbmath.org/authors/?q=ai%3Aandre.etienne</Author>
+  </Problem>
+  <Problem id="4" type="coauthors">
+    <Author>https://zbmath.org/authors/?q=ai%3Apechuk.ye-d</Author>
+  </Problem>
+  <Problem id="5" type="coauthors">
+    <Author>https://zbmath.org/authors/?q=ai%3Ali.xueliang</Author>
+  </Problem>
+  <Problem id="6" type="coauthors">
+    <Author>https://zbmath.org/authors/?q=ai%3Akhlunov.aleksandr-v</Author>
+  </Problem>
+  <Problem id="7" type="coauthors">
+    <Author>https://zbmath.org/authors/?q=ai%3Aakhtari.shabnam</Author>
+  </Problem>
+  <Problem id="8" type="coauthors">
+    <Author>https://zbmath.org/authors/?q=ai%3Asinkala.winter</Author>
+  </Problem>
+  <Problem id="9" type="coauthors">
+    <Author>https://zbmath.org/authors/?q=ai%3Aaustrin.per</Author>
+  </Problem>
+  <Problem id="10" type="msc-intersection">
+    <Classification>https://zbmath.org/classification/?q=cc%3A30F40</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A00</Classification>
+  </Problem>
+  <Problem id="11" type="msc-intersection">
+    <Classification>https://zbmath.org/classification/?q=cc%3A91B50</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A91B18</Classification>
+  </Problem>
+  <Problem id="12" type="msc-intersection">
+    <Classification>https://zbmath.org/classification/?q=cc%3A49K</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A65M</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A35D</Classification>
+  </Problem>
+  <Problem id="13" type="msc-intersection">
+    <Classification>https://zbmath.org/classification/?q=cc%3A00B15</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A74</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A82</Classification>
+  </Problem>
+  <Problem id="14" type="msc-intersection">
+    <Classification>https://zbmath.org/classification/?q=cc%3A26-01</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A26E</Classification>
+  </Problem>
+  <Problem id="15" type="msc-intersection">
+    <Classification>https://zbmath.org/classification/?q=cc%3A00B</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A37</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A53-06</Classification>
+  </Problem>
+  <Problem id="16" type="msc-intersection">
+    <Classification>https://zbmath.org/classification/?q=cc%3A91B</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A91A25</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A37N40</Classification>
+  </Problem>
+  <Problem id="17" type="msc-intersection">
+    <Classification>https://zbmath.org/classification/?q=cc%3A65D</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A00B25</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A94</Classification>
+  </Problem>
+  <Problem id="18" type="msc-intersection">
+    <Classification>https://zbmath.org/classification/?q=cc%3A05C20</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A90</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A05C38</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A68</Classification>
+  </Problem>
+  <Problem id="19" type="msc-intersection">
+    <Classification>https://zbmath.org/classification/?q=cc%3A97H</Classification>
+    <Classification>https://zbmath.org/classification/?q=cc%3A97I10</Classification>
+  </Problem>
+  <Problem id="20" type="top-keywords">
+    <Author>https://zbmath.org/authors/?q=ai%3Aqiang.huiying</Author>
+    <BeforeYear>2009</BeforeYear>
+    <AfterYear>2004</AfterYear>
+  </Problem>
+  <Problem id="21" type="top-keywords">
+    <Author>https://zbmath.org/authors/?q=ai%3Aramani.alfred</Author>
+    <BeforeYear>1995</BeforeYear>
+    <AfterYear>1982</AfterYear>
+  </Problem>
+  <Problem id="22" type="top-keywords">
+    <Author>https://zbmath.org/authors/?q=ai%3Ahe.bo</Author>
+    <BeforeYear>2008</BeforeYear>
+    <AfterYear>2000</AfterYear>
+  </Problem>
+  <Problem id="23" type="top-keywords">
+    <Author>https://zbmath.org/authors/?q=ai%3Ahormann.gunther</Author>
+    <BeforeYear>2004</BeforeYear>
+    <AfterYear>2000</AfterYear>
+  </Problem>
+  <Problem id="24" type="top-keywords">
+    <Author>https://zbmath.org/authors/?q=ai%3Awilliams.ruth-j</Author>
+    <BeforeYear>1992</BeforeYear>
+    <AfterYear>1984</AfterYear>
+  </Problem>
+  <Problem id="25" type="top-keywords">
+    <Author>https://zbmath.org/authors/?q=ai%3Azelmanov.efim-i</Author>
+    <BeforeYear>1985</BeforeYear>
+    <AfterYear>1981</AfterYear>
+  </Problem>
+  <Problem id="26" type="top-keywords">
+    <Author>https://zbmath.org/authors/?q=ai%3Afu.jixiang</Author>
+    <BeforeYear>2007</BeforeYear>
+    <AfterYear>2003</AfterYear>
+  </Problem>
+  <Problem id="27" type="top-keywords">
+    <Author>https://zbmath.org/authors/?q=ai%3Ahaddar.houssem</Author>
+    <BeforeYear>2002</BeforeYear>
+    <AfterYear>1998</AfterYear>
+  </Problem>
+  <Problem id="28" type="top-keywords">
+    <Author>https://zbmath.org/authors/?q=ai%3Ahuang.zhiyi</Author>
+    <BeforeYear>2015</BeforeYear>
+    <AfterYear>2005</AfterYear>
+  </Problem>
+  <Problem id="29" type="top-keywords">
+    <Author>https://zbmath.org/authors/?q=ai%3Akowalski.oldrich</Author>
+    <BeforeYear>1981</BeforeYear>
+    <AfterYear>1980</AfterYear>
+  </Problem>
+</Problems>
